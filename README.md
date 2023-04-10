@@ -1,2 +1,3 @@
 # Simon-Game
-JQuerry, JS
+
+At this project I have firstly learned jQuery and JavaScript.
